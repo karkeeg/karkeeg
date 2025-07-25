@@ -9,7 +9,7 @@ NextWaveAi <br>CEC college project<br>learning React native<br>i have learnt typ
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bibek.karki.90475/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-karki-b41703272/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/bibek_karki8/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://karkibibek.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=k&logoColor=white)](https://karkibibek.netlify.app/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karkibibek642@gmail.com)
 
 
